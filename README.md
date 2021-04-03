@@ -1,4 +1,4 @@
-[![Header](readme_header.png "Header")](https://yahya4242.github.io/)
+[![Header](2-banner.jpg "Header")](https://yahya4242.github.io/)
 
 
 ### Hi there 👋
