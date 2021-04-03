@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/yahya4242/<OWNER>/<OWNER>/readme_header.png "Header")](https://https://yahya4242.github.io/)
+[![Header](https://raw.githubusercontent.com/yahya4242/<OWNER>/<OWNER>/readme_header.png "Header")](https://https://yahya4242.github.io)
 
 ### Hi there 👋
 
