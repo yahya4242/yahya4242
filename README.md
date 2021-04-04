@@ -19,10 +19,27 @@
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blueviolet)
 
 
+ ### 🌱 I’m currently diving deeper into ...
+### React.js
+### Node js
+### Wordpress and some php
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahya4242&layout=compact)](https://github.com/yahya4242/yahya4242)
-[![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahya4242&show_icons=true&theme=tokyonight)](https://github.com/yahya4242/yahya4242)
+[![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahya4242&show_icons=true&theme=tokyonight)](https://github.com/yahya4242/yahya4242),  
+
+
+## You can find me on [![Facebook][1.2]][1], or on [![LinkedIn][2.2]][2].
+ 
+[1.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+[1]: https://www.facebook.com/yahya.mousa.7121
+[2]: https://www.linkedin.com/in/yehya-sharaf-a73562177/
+
+
+
+
 
 
 
